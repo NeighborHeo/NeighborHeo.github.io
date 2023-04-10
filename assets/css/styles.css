@@ -544,7 +544,7 @@ img {
   background-color: var(--first-color);
 }
 
-.skills_html{
+.skills_csharp{
   width: 60%;
 }
 
@@ -745,7 +745,7 @@ img {
 
 .services_title{
   margin-top: 0.7rem;
-  font-size: var(--h3-font-size);
+  font-size: var(--smaller-font-size);
   margin-bottom: 3rem;
   font-weight: var(--font-medium);
 }
